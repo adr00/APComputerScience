@@ -20,27 +20,27 @@ class Lesson_20_Activity{
         while( x == 1)
         {
             System.out.println("Please enter a latitude: ");
-            double lat = scan.nextDouble();
+            double latitude = scan.nextDouble();
             System.out.println("Please enter a longitude: ");
-            double lon = scan.nextDouble();
+            double longitude = scan.nextDouble();
             if (((lat > 90.00)||(lat < -90.00))||((lon > 180.00)||(lon < -180.00)))
             {
                 System.out.println("Incorrect Latitude or Longitude");
-                lat = 0;
-                lon=0;}
+                latitude = 0;
+                longitude=0;}
             else
                 System.out.println("Would you like to enter another location? ");
                 x = scan.nextDouble();
 
 
 
-            if (lat >= north)
+            if (latitude >= north)
                     north = lat;
-            if (lat <= south)
+            if (latitude <= south)
                     south = lat;
-            if (lon >= east)
+            if (longitude >= east)
                     east = lon;
-            if (lon <= west)
+            if (longitude <= west)
                     west = lon;
 
             }
