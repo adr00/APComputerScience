@@ -23,7 +23,7 @@ class Lesson_20_Activity{
             double latitude = scan.nextDouble();
             System.out.println("Please enter a longitude: ");
             double longitude = scan.nextDouble();
-            if (((lat > 90.00)||(lat < -90.00))||((lon > 180.00)||(lon < -180.00)))
+            if (((latitude > 90.00)||(latitude < -90.00))||((longitude > 180.00)||(longitude < -180.00)))
             {
                 System.out.println("Incorrect Latitude or Longitude");
                 latitude = 0;
@@ -35,13 +35,13 @@ class Lesson_20_Activity{
 
 
             if (latitude >= north)
-                    north = lat;
+                    north = latitude;
             if (latitude <= south)
-                    south = lat;
+                    south = latitude;
             if (longitude >= east)
-                    east = lon;
+                    east = longitude;
             if (longitude <= west)
-                    west = lon;
+                    west = longitude;
 
             }
             if (north<=90&&south>=-90&&east<=180&&west>=-180)
