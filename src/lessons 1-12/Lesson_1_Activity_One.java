@@ -14,7 +14,7 @@ import java.lang.Math;
 class Lesson_1_Activity_One {
     public static void main(String[] args) {
       
-      system.out.println(" Andrew ")
+      System.out.println(" Andrew ");
 
 
     }
