@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8924ef-b419-4bd3-8045-f4e9ef871c4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/November/Lesson29/Lesson_29_Activity_One.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/November/Lesson29/Lesson_29_Activity_Two.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/November/Lesson30/Lesson_30_Activity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/October/Assignment5/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lessons 1-12/Lesson_1_Activity_One.java" afterPath="$PROJECT_DIR$/src/lessons 1-12/Lesson_1_Activity_One.java" />
     </list>
     <ignored path="APCS1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -701,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477318571534</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Assignment 5 and various lessons completed">
+      <created>1479478327937</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1479478327937</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -754,7 +755,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Assignment 4 completed" />
     <MESSAGE value="lessons 22-24 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 22-24 completed" />
+    <MESSAGE value="Assignment 5 and various lessons completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 5 and various lessons completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
