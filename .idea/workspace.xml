@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf8924ef-b419-4bd3-8045-f4e9ef871c4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Five.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Four.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_One.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Three.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Two.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/November/Assignment6/main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/December/Lesson33/Lesson_35.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="APCS1.iws" />
@@ -54,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson_33_Activity_Five.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lesson_33_Activity_Five.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Five.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -62,6 +56,19 @@
               <folding>
                 <element signature="e#312#313#0" expanded="true" />
                 <element signature="e#345#346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lesson_35.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/December/Lesson33/Lesson_35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Three.java" />
         <option value="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Four.java" />
         <option value="$PROJECT_DIR$/src/December/Lesson33/Lesson_33_Activity_Five.java" />
+        <option value="$PROJECT_DIR$/src/December/Lesson33/Lesson_35.java" />
       </list>
     </option>
   </component>
@@ -789,7 +797,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479829278603</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson 32 completed + assingment 5 + and other lessons">
+      <created>1481216668844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1481216668844</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -855,13 +870,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/October/Assignment5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/October/Assignment4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1208,6 +1216,17 @@
           <folding>
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/December/Lesson33/Lesson_35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
