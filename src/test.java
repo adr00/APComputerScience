@@ -1,18 +1,24 @@
 /**
  * Created by andrewrusso on 12/2/16.
  */
+import java.util.ArrayList;
 public class test {
-    public static void mystery(String wo) {
-        if (wo.length() > 0)
-            mystery( wo.substring( wo.length() - 1));
-        System.out.println(wo);
-    }
 
     public static void main (String[]args)
     {
-        String q = "adjective";
-        String r = "stinky";
+        ArrayList<test> bulbs = new ArrayList<test>();
+        bulbs.add(new test());
+        bulbs.remove(0);
+        bulbs.add(new test());
+        test b = new test();
+        bulbs.add(1, b);
+        bulbs.add(new test());
+        bulbs.remove(0);
+        bulbs.add(new test());
+        bulbs.remove(2);
+        bulbs.remove(1);
+        bulbs.add(new test());
 
-        System.out.println( q.charAt( r.indexOf ('t')));
+        System.out.println(bulbs.size());
     }
 }

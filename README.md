@@ -1,2 +1,2 @@
 # APComputerScience
-Work for AP Computer science through Edhesive
+Work for AP Computer science
